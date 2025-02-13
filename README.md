@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paraskumar</h1>
-<h3 align="center">A passionate FULLSTACK developer from India</h3>
+<h3 align="center">A passionate FULLSTACK developer</h3>
 
 - 📫 How to reach me **paraspanchal555@gmail.com**
 
